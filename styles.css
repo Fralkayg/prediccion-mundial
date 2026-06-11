@@ -48,7 +48,7 @@ header {
 }
 
 .brand h1 {
-  font-size: clamp(3.25rem, 6vw, 5.5rem);
+  font-size: clamp(1.8rem, 8vw, 5.5rem);
   font-weight: 900;
   letter-spacing: -0.05em;
   line-height: 0.92;
@@ -393,7 +393,7 @@ tbody tr:hover {
 .matches-panel {
   max-height: 760px;
   overflow-y: auto;
-  overflow-x: hidden;
+  overflow-x: auto;
   padding: 1rem;
   display: flex;
   flex-direction: column;
@@ -562,5 +562,24 @@ footer {
 
   .metric p {
     font-size: 1.75rem;
+  }
+
+  #standings-container {
+    overflow-x: auto;
+  }
+
+  .player-panel .card {
+    overflow-x: auto;
+  }
+
+  #standings-container td,
+  .player-panel td {
+    white-space: nowrap;
+  }
+}
+
+@media (max-width: 420px) {
+  .player-summary {
+    grid-template-columns: 1fr;
   }
 }
