@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mundial Divina Piscola</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="hero">
+      <div class="brand">
+        <h1>Mundial Divina Piscola</h1>
+        <p>Pronósticos de la Copa del Mundo y tabla de puntajes.</p>
+      </div>
+      <div class="hero-badge">
+        <div class="ball-row">
+          <span class="ball"></span>
+          <strong>Bienvenido al tablero de quiniela</strong>
+        </div>
+        <p>Comparte resultados con amigos y sigue la clasificación tras cada partido.</p>
+      </div>
+    </div>
+    <div class="score-rules">
+      <h2>Sistema de puntuación</h2>
+      <ul>
+        <li><span class="pts-badge pts-3">3</span><span>Resultado exacto</span></li>
+        <li><span class="pts-badge pts-2">2</span><span>Diferencia de goles</span></li>
+        <li><span class="pts-badge pts-1">1</span><span>Resultado correcto</span></li>
+        <li><span class="pts-badge pts-0">0</span><span>Sin acierto</span></li>
+      </ul>
+    </div>
+  </header>
+
+  <main>
+    <section class="section" id="standings-section">
+      <h2>Tabla de posiciones</h2>
+      <div id="standings-container" class="card">
+        <p class="loading">Cargando predicciones y resultados...</p>
+      </div>
+    </section>
+
+    <section class="section" id="players-section">
+      <h2>Pronósticos por jugador</h2>
+      <div class="tabs-card card">
+        <div id="player-tabs" class="tabs"></div>
+        <div id="player-panels" class="player-panels"></div>
+      </div>
+    </section>
+
+    <section class="section" id="matches-section">
+      <h2>Detalles de cada partido</h2>
+      <p class="section-note">Desplázate dentro del panel para ver más partidos sin alargar demasiado la página.</p>
+      <div id="matches-container" class="matches-panel card"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Actualiza <code>data/predictions.json</code> y <code>data/results.json</code> para cambiar pronósticos y resultados.</p>
+    <p>Sirve mejor con un servidor local (ej. <code>python -m http.server</code> o Live Server).</p>
+  </footer>
+
+  <script src="script.js" defer></script>
+</body>
+</html>

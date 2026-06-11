@@ -1,0 +1,1558 @@
+{
+  "matches": [
+    {
+      "id": 1,
+      "homeTeam": "México",
+      "awayTeam": "Sudáfrica"
+    },
+    {
+      "id": 2,
+      "homeTeam": "Corea del Sur",
+      "awayTeam": "República Checa"
+    },
+    {
+      "id": 3,
+      "homeTeam": "Canadá",
+      "awayTeam": "Bosnia y Herzegovina"
+    },
+    {
+      "id": 4,
+      "homeTeam": "Estados Unidos",
+      "awayTeam": "Paraguay"
+    },
+    {
+      "id": 5,
+      "homeTeam": "Catar",
+      "awayTeam": "Suiza"
+    },
+    {
+      "id": 6,
+      "homeTeam": "Brasil",
+      "awayTeam": "Marruecos"
+    },
+    {
+      "id": 7,
+      "homeTeam": "Haití",
+      "awayTeam": "Escocia"
+    },
+    {
+      "id": 8,
+      "homeTeam": "Australia",
+      "awayTeam": "Turquía"
+    },
+    {
+      "id": 9,
+      "homeTeam": "Alemania",
+      "awayTeam": "Curazao"
+    },
+    {
+      "id": 10,
+      "homeTeam": "Países Bajos",
+      "awayTeam": "Japón"
+    },
+    {
+      "id": 11,
+      "homeTeam": "Costa de Marfil",
+      "awayTeam": "Ecuador"
+    },
+    {
+      "id": 12,
+      "homeTeam": "Suecia",
+      "awayTeam": "Túnez"
+    },
+    {
+      "id": 13,
+      "homeTeam": "España",
+      "awayTeam": "Cabo Verde"
+    },
+    {
+      "id": 14,
+      "homeTeam": "Bélgica",
+      "awayTeam": "Egipto"
+    },
+    {
+      "id": 15,
+      "homeTeam": "Arabia Saudita",
+      "awayTeam": "Uruguay"
+    },
+    {
+      "id": 16,
+      "homeTeam": "Irán",
+      "awayTeam": "Nueva Zelanda"
+    },
+    {
+      "id": 17,
+      "homeTeam": "Francia",
+      "awayTeam": "Senegal"
+    },
+    {
+      "id": 18,
+      "homeTeam": "Irak",
+      "awayTeam": "Noruega"
+    },
+    {
+      "id": 19,
+      "homeTeam": "Argentina",
+      "awayTeam": "Argelia"
+    },
+    {
+      "id": 20,
+      "homeTeam": "Austria",
+      "awayTeam": "Jordania"
+    },
+    {
+      "id": 21,
+      "homeTeam": "Portugal",
+      "awayTeam": "RD Congo"
+    },
+    {
+      "id": 22,
+      "homeTeam": "Inglaterra",
+      "awayTeam": "Croacia"
+    },
+    {
+      "id": 23,
+      "homeTeam": "Ghana",
+      "awayTeam": "Panamá"
+    },
+    {
+      "id": 24,
+      "homeTeam": "Uzbekistán",
+      "awayTeam": "Colombia"
+    },
+    {
+      "id": 25,
+      "homeTeam": "República Checa",
+      "awayTeam": "Sudáfrica"
+    },
+    {
+      "id": 26,
+      "homeTeam": "Suiza",
+      "awayTeam": "Bosnia y Herzegovina"
+    },
+    {
+      "id": 27,
+      "homeTeam": "Canadá",
+      "awayTeam": "Catar"
+    },
+    {
+      "id": 28,
+      "homeTeam": "México",
+      "awayTeam": "Corea del Sur"
+    },
+    {
+      "id": 29,
+      "homeTeam": "Estados Unidos",
+      "awayTeam": "Australia"
+    },
+    {
+      "id": 30,
+      "homeTeam": "Escocia",
+      "awayTeam": "Marruecos"
+    },
+    {
+      "id": 31,
+      "homeTeam": "Haití",
+      "awayTeam": "Brasil"
+    },
+    {
+      "id": 32,
+      "homeTeam": "Turquía",
+      "awayTeam": "Paraguay"
+    },
+    {
+      "id": 33,
+      "homeTeam": "Países Bajos",
+      "awayTeam": "Suecia"
+    },
+    {
+      "id": 34,
+      "homeTeam": "Alemania",
+      "awayTeam": "Costa de Marfil"
+    },
+    {
+      "id": 35,
+      "homeTeam": "Ecuador",
+      "awayTeam": "Curazao"
+    },
+    {
+      "id": 36,
+      "homeTeam": "Túnez",
+      "awayTeam": "Japón"
+    },
+    {
+      "id": 37,
+      "homeTeam": "España",
+      "awayTeam": "Arabia Saudita"
+    },
+    {
+      "id": 38,
+      "homeTeam": "Bélgica",
+      "awayTeam": "Irán"
+    },
+    {
+      "id": 39,
+      "homeTeam": "Uruguay",
+      "awayTeam": "Cabo Verde"
+    },
+    {
+      "id": 40,
+      "homeTeam": "Nueva Zelanda",
+      "awayTeam": "Egipto"
+    },
+    {
+      "id": 41,
+      "homeTeam": "Argentina",
+      "awayTeam": "Austria"
+    },
+    {
+      "id": 42,
+      "homeTeam": "Francia",
+      "awayTeam": "Irak"
+    },
+    {
+      "id": 43,
+      "homeTeam": "Noruega",
+      "awayTeam": "Senegal"
+    },
+    {
+      "id": 44,
+      "homeTeam": "Jordania",
+      "awayTeam": "Argelia"
+    },
+    {
+      "id": 45,
+      "homeTeam": "Portugal",
+      "awayTeam": "Uzbekistán"
+    },
+    {
+      "id": 46,
+      "homeTeam": "Inglaterra",
+      "awayTeam": "Ghana"
+    },
+    {
+      "id": 47,
+      "homeTeam": "Panamá",
+      "awayTeam": "Croacia"
+    },
+    {
+      "id": 48,
+      "homeTeam": "Colombia",
+      "awayTeam": "RD Congo"
+    },
+    {
+      "id": 49,
+      "homeTeam": "Suiza",
+      "awayTeam": "Canadá"
+    },
+    {
+      "id": 50,
+      "homeTeam": "Bosnia y Herzegovina",
+      "awayTeam": "Catar"
+    },
+    {
+      "id": 51,
+      "homeTeam": "Brasil",
+      "awayTeam": "Escocia"
+    },
+    {
+      "id": 52,
+      "homeTeam": "Marruecos",
+      "awayTeam": "Haití"
+    },
+    {
+      "id": 53,
+      "homeTeam": "México",
+      "awayTeam": "República Checa"
+    },
+    {
+      "id": 54,
+      "homeTeam": "Sudáfrica",
+      "awayTeam": "Corea del Sur"
+    },
+    {
+      "id": 55,
+      "homeTeam": "Curazao",
+      "awayTeam": "Costa de Marfil"
+    },
+    {
+      "id": 56,
+      "homeTeam": "Ecuador",
+      "awayTeam": "Alemania"
+    },
+    {
+      "id": 57,
+      "homeTeam": "Japón",
+      "awayTeam": "Suecia"
+    },
+    {
+      "id": 58,
+      "homeTeam": "Túnez",
+      "awayTeam": "Países Bajos"
+    },
+    {
+      "id": 59,
+      "homeTeam": "Turquía",
+      "awayTeam": "Estados Unidos"
+    },
+    {
+      "id": 60,
+      "homeTeam": "Paraguay",
+      "awayTeam": "Australia"
+    },
+    {
+      "id": 61,
+      "homeTeam": "Noruega",
+      "awayTeam": "Francia"
+    },
+    {
+      "id": 62,
+      "homeTeam": "Senegal",
+      "awayTeam": "Irak"
+    },
+    {
+      "id": 63,
+      "homeTeam": "Cabo Verde",
+      "awayTeam": "Arabia Saudita"
+    },
+    {
+      "id": 64,
+      "homeTeam": "Uruguay",
+      "awayTeam": "España"
+    },
+    {
+      "id": 65,
+      "homeTeam": "Egipto",
+      "awayTeam": "Irán"
+    },
+    {
+      "id": 66,
+      "homeTeam": "Nueva Zelanda",
+      "awayTeam": "Bélgica"
+    },
+    {
+      "id": 67,
+      "homeTeam": "Inglaterra",
+      "awayTeam": "Panamá"
+    },
+    {
+      "id": 68,
+      "homeTeam": "Croacia",
+      "awayTeam": "Ghana"
+    },
+    {
+      "id": 69,
+      "homeTeam": "Portugal",
+      "awayTeam": "Colombia"
+    },
+    {
+      "id": 70,
+      "homeTeam": "RD Congo",
+      "awayTeam": "Uzbekistán"
+    },
+    {
+      "id": 71,
+      "homeTeam": "Argentina",
+      "awayTeam": "Jordania"
+    },
+    {
+      "id": 72,
+      "homeTeam": "Argelia",
+      "awayTeam": "Austria"
+    }
+  ],
+  "predictions": [
+    {
+      "name": "Diego Reyes",
+      "guesses": [
+        {
+          "matchId": 1,
+          "home": 2,
+          "away": 0
+        },
+        {
+          "matchId": 2,
+          "home": 1,
+          "away": 1
+        },
+        {
+          "matchId": 3,
+          "home": 1,
+          "away": 1
+        },
+        {
+          "matchId": 4,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 5,
+          "home": 0,
+          "away": 2
+        },
+        {
+          "matchId": 6,
+          "home": 3,
+          "away": 1
+        },
+        {
+          "matchId": 7,
+          "home": 0,
+          "away": 2
+        },
+        {
+          "matchId": 8,
+          "home": 1,
+          "away": 1
+        },
+        {
+          "matchId": 9,
+          "home": 3,
+          "away": 0
+        },
+        {
+          "matchId": 10,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 11,
+          "home": 1,
+          "away": 1
+        },
+        {
+          "matchId": 12,
+          "home": 2,
+          "away": 0
+        },
+        {
+          "matchId": 13,
+          "home": 3,
+          "away": 0
+        },
+        {
+          "matchId": 14,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 15,
+          "home": 1,
+          "away": 2
+        },
+        {
+          "matchId": 16,
+          "home": 1,
+          "away": 1
+        },
+        {
+          "matchId": 17,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 18,
+          "home": 0,
+          "away": 2
+        },
+        {
+          "matchId": 19,
+          "home": 3,
+          "away": 0
+        },
+        {
+          "matchId": 20,
+          "home": 2,
+          "away": 0
+        },
+        {
+          "matchId": 21,
+          "home": 2,
+          "away": 0
+        },
+        {
+          "matchId": 22,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 23,
+          "home": 2,
+          "away": 0
+        },
+        {
+          "matchId": 24,
+          "home": 1,
+          "away": 2
+        },
+        {
+          "matchId": 25,
+          "home": 1,
+          "away": 1
+        },
+        {
+          "matchId": 26,
+          "home": 2,
+          "away": 0
+        },
+        {
+          "matchId": 27,
+          "home": 1,
+          "away": 1
+        },
+        {
+          "matchId": 28,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 29,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 30,
+          "home": 1,
+          "away": 1
+        },
+        {
+          "matchId": 31,
+          "home": 0,
+          "away": 3
+        },
+        {
+          "matchId": 32,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 33,
+          "home": 2,
+          "away": 0
+        },
+        {
+          "matchId": 34,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 35,
+          "home": 2,
+          "away": 0
+        },
+        {
+          "matchId": 36,
+          "home": 0,
+          "away": 2
+        },
+        {
+          "matchId": 37,
+          "home": 2,
+          "away": 0
+        },
+        {
+          "matchId": 38,
+          "home": 2,
+          "away": 0
+        },
+        {
+          "matchId": 39,
+          "home": 2,
+          "away": 0
+        },
+        {
+          "matchId": 40,
+          "home": 0,
+          "away": 2
+        },
+        {
+          "matchId": 41,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 42,
+          "home": 2,
+          "away": 0
+        },
+        {
+          "matchId": 43,
+          "home": 1,
+          "away": 1
+        },
+        {
+          "matchId": 44,
+          "home": 0,
+          "away": 2
+        },
+        {
+          "matchId": 45,
+          "home": 3,
+          "away": 0
+        },
+        {
+          "matchId": 46,
+          "home": 2,
+          "away": 0
+        },
+        {
+          "matchId": 47,
+          "home": 0,
+          "away": 2
+        },
+        {
+          "matchId": 48,
+          "home": 2,
+          "away": 0
+        },
+        {
+          "matchId": 49,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 50,
+          "home": 1,
+          "away": 0
+        },
+        {
+          "matchId": 51,
+          "home": 2,
+          "away": 0
+        },
+        {
+          "matchId": 52,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 53,
+          "home": 2,
+          "away": 0
+        },
+        {
+          "matchId": 54,
+          "home": 1,
+          "away": 2
+        },
+        {
+          "matchId": 55,
+          "home": 0,
+          "away": 3
+        },
+        {
+          "matchId": 56,
+          "home": 1,
+          "away": 1
+        },
+        {
+          "matchId": 57,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 58,
+          "home": 0,
+          "away": 2
+        },
+        {
+          "matchId": 59,
+          "home": 1,
+          "away": 2
+        },
+        {
+          "matchId": 60,
+          "home": 1,
+          "away": 1
+        },
+        {
+          "matchId": 61,
+          "home": 1,
+          "away": 2
+        },
+        {
+          "matchId": 62,
+          "home": 2,
+          "away": 0
+        },
+        {
+          "matchId": 63,
+          "home": 0,
+          "away": 2
+        },
+        {
+          "matchId": 64,
+          "home": 1,
+          "away": 2
+        },
+        {
+          "matchId": 65,
+          "home": 1,
+          "away": 1
+        },
+        {
+          "matchId": 66,
+          "home": 0,
+          "away": 3
+        },
+        {
+          "matchId": 67,
+          "home": 3,
+          "away": 0
+        },
+        {
+          "matchId": 68,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 69,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 70,
+          "home": 0,
+          "away": 2
+        },
+        {
+          "matchId": 71,
+          "home": 3,
+          "away": 0
+        },
+        {
+          "matchId": 72,
+          "home": 1,
+          "away": 1
+        }
+      ]
+    },
+    {
+      "name": "Nicolás Muñoz",
+      "guesses": [
+        {
+          "matchId": 1,
+          "home": 2,
+          "away": 0
+        },
+        {
+          "matchId": 2,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 3,
+          "home": 2,
+          "away": 0
+        },
+        {
+          "matchId": 4,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 5,
+          "home": 0,
+          "away": 1
+        },
+        {
+          "matchId": 6,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 7,
+          "home": 1,
+          "away": 3
+        },
+        {
+          "matchId": 8,
+          "home": 0,
+          "away": 2
+        },
+        {
+          "matchId": 9,
+          "home": 4,
+          "away": 0
+        },
+        {
+          "matchId": 10,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 11,
+          "home": 1,
+          "away": 3
+        },
+        {
+          "matchId": 12,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 13,
+          "home": 4,
+          "away": 1
+        },
+        {
+          "matchId": 14,
+          "home": 3,
+          "away": 1
+        },
+        {
+          "matchId": 15,
+          "home": 1,
+          "away": 4
+        },
+        {
+          "matchId": 16,
+          "home": 1,
+          "away": 1
+        },
+        {
+          "matchId": 17,
+          "home": 3,
+          "away": 1
+        },
+        {
+          "matchId": 18,
+          "home": 1,
+          "away": 2
+        },
+        {
+          "matchId": 19,
+          "home": 3,
+          "away": 1
+        },
+        {
+          "matchId": 20,
+          "home": 0,
+          "away": 0
+        },
+        {
+          "matchId": 21,
+          "home": 3,
+          "away": 0
+        },
+        {
+          "matchId": 22,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 23,
+          "home": 1,
+          "away": 1
+        },
+        {
+          "matchId": 24,
+          "home": 1,
+          "away": 1
+        },
+        {
+          "matchId": 25,
+          "home": 1,
+          "away": 2
+        },
+        {
+          "matchId": 26,
+          "home": 1,
+          "away": 1
+        },
+        {
+          "matchId": 27,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 28,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 29,
+          "home": 2,
+          "away": 0
+        },
+        {
+          "matchId": 30,
+          "home": 1,
+          "away": 2
+        },
+        {
+          "matchId": 31,
+          "home": 1,
+          "away": 5
+        },
+        {
+          "matchId": 32,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 33,
+          "home": 3,
+          "away": 1
+        },
+        {
+          "matchId": 34,
+          "home": 3,
+          "away": 0
+        },
+        {
+          "matchId": 35,
+          "home": 3,
+          "away": 0
+        },
+        {
+          "matchId": 36,
+          "home": 2,
+          "away": 3
+        },
+        {
+          "matchId": 37,
+          "home": 3,
+          "away": 0
+        },
+        {
+          "matchId": 38,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 39,
+          "home": 4,
+          "away": 0
+        },
+        {
+          "matchId": 40,
+          "home": 1,
+          "away": 3
+        },
+        {
+          "matchId": 41,
+          "home": 3,
+          "away": 0
+        },
+        {
+          "matchId": 42,
+          "home": 4,
+          "away": 1
+        },
+        {
+          "matchId": 43,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 44,
+          "home": 1,
+          "away": 2
+        },
+        {
+          "matchId": 45,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 46,
+          "home": 3,
+          "away": 1
+        },
+        {
+          "matchId": 47,
+          "home": 1,
+          "away": 3
+        },
+        {
+          "matchId": 48,
+          "home": 2,
+          "away": 0
+        },
+        {
+          "matchId": 49,
+          "home": 2,
+          "away": 2
+        },
+        {
+          "matchId": 50,
+          "home": 1,
+          "away": 0
+        },
+        {
+          "matchId": 51,
+          "home": 3,
+          "away": 1
+        },
+        {
+          "matchId": 52,
+          "home": 2,
+          "away": 0
+        },
+        {
+          "matchId": 53,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 54,
+          "home": 1,
+          "away": 2
+        },
+        {
+          "matchId": 55,
+          "home": 2,
+          "away": 2
+        },
+        {
+          "matchId": 56,
+          "home": 1,
+          "away": 2
+        },
+        {
+          "matchId": 57,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 58,
+          "home": 1,
+          "away": 3
+        },
+        {
+          "matchId": 59,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 60,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 61,
+          "home": 1,
+          "away": 2
+        },
+        {
+          "matchId": 62,
+          "home": 1,
+          "away": 1
+        },
+        {
+          "matchId": 63,
+          "home": 1,
+          "away": 2
+        },
+        {
+          "matchId": 64,
+          "home": 2,
+          "away": 3
+        },
+        {
+          "matchId": 65,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 66,
+          "home": 1,
+          "away": 2
+        },
+        {
+          "matchId": 67,
+          "home": 3,
+          "away": 0
+        },
+        {
+          "matchId": 68,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 69,
+          "home": 2,
+          "away": 1
+        },
+        {
+          "matchId": 70,
+          "home": 2,
+          "away": 2
+        },
+        {
+          "matchId": 71,
+          "home": 4,
+          "away": 0
+        },
+        {
+          "matchId": 72,
+          "home": 2,
+          "away": 2
+        }
+      ]
+    },
+    {
+      "name": "Christian Sepúlveda",
+      "guesses": [
+        { "matchId": 1,  "home": 2, "away": 0 },
+        { "matchId": 2,  "home": 1, "away": 1 },
+        { "matchId": 3,  "home": 1, "away": 1 },
+        { "matchId": 4,  "home": 1, "away": 2 },
+        { "matchId": 5,  "home": 3, "away": 0 },
+        { "matchId": 6,  "home": 3, "away": 1 },
+        { "matchId": 7,  "home": 2, "away": 0 },
+        { "matchId": 8,  "home": 1, "away": 1 },
+        { "matchId": 9,  "home": 4, "away": 0 },
+        { "matchId": 10, "home": 2, "away": 0 },
+        { "matchId": 11, "home": 2, "away": 1 },
+        { "matchId": 12, "home": 2, "away": 0 },
+        { "matchId": 13, "home": 3, "away": 0 },
+        { "matchId": 14, "home": 2, "away": 1 },
+        { "matchId": 15, "home": 1, "away": 2 },
+        { "matchId": 16, "home": 2, "away": 0 },
+        { "matchId": 17, "home": 3, "away": 0 },
+        { "matchId": 18, "home": 0, "away": 2 },
+        { "matchId": 19, "home": 3, "away": 0 },
+        { "matchId": 20, "home": 2, "away": 0 },
+        { "matchId": 21, "home": 3, "away": 0 },
+        { "matchId": 22, "home": 2, "away": 1 },
+        { "matchId": 23, "home": 1, "away": 1 },
+        { "matchId": 24, "home": 0, "away": 3 },
+        { "matchId": 25, "home": 2, "away": 0 },
+        { "matchId": 26, "home": 2, "away": 1 },
+        { "matchId": 27, "home": 2, "away": 1 },
+        { "matchId": 28, "home": 2, "away": 1 },
+        { "matchId": 29, "home": 2, "away": 1 },
+        { "matchId": 30, "home": 0, "away": 2 },
+        { "matchId": 31, "home": 0, "away": 4 },
+        { "matchId": 32, "home": 2, "away": 1 },
+        { "matchId": 33, "home": 2, "away": 0 },
+        { "matchId": 34, "home": 3, "away": 1 },
+        { "matchId": 35, "home": 2, "away": 0 },
+        { "matchId": 36, "home": 1, "away": 1 },
+        { "matchId": 37, "home": 2, "away": 0 },
+        { "matchId": 38, "home": 1, "away": 1 },
+        { "matchId": 39, "home": 3, "away": 0 },
+        { "matchId": 40, "home": 0, "away": 2 },
+        { "matchId": 41, "home": 2, "away": 1 },
+        { "matchId": 42, "home": 3, "away": 0 },
+        { "matchId": 43, "home": 1, "away": 1 },
+        { "matchId": 44, "home": 0, "away": 2 },
+        { "matchId": 45, "home": 2, "away": 0 },
+        { "matchId": 46, "home": 2, "away": 0 },
+        { "matchId": 47, "home": 0, "away": 2 },
+        { "matchId": 48, "home": 2, "away": 0 },
+        { "matchId": 49, "home": 1, "away": 1 },
+        { "matchId": 50, "home": 2, "away": 0 },
+        { "matchId": 51, "home": 2, "away": 0 },
+        { "matchId": 52, "home": 3, "away": 0 },
+        { "matchId": 53, "home": 1, "away": 1 },
+        { "matchId": 54, "home": 0, "away": 2 },
+        { "matchId": 55, "home": 0, "away": 2 },
+        { "matchId": 56, "home": 1, "away": 2 },
+        { "matchId": 57, "home": 1, "away": 2 },
+        { "matchId": 58, "home": 0, "away": 2 },
+        { "matchId": 59, "home": 1, "away": 1 },
+        { "matchId": 60, "home": 1, "away": 2 },
+        { "matchId": 61, "home": 1, "away": 0 },
+        { "matchId": 62, "home": 2, "away": 1 },
+        { "matchId": 63, "home": 0, "away": 2 },
+        { "matchId": 64, "home": 1, "away": 1 },
+        { "matchId": 65, "home": 1, "away": 1 },
+        { "matchId": 66, "home": 0, "away": 2 },
+        { "matchId": 67, "home": 2, "away": 0 },
+        { "matchId": 68, "home": 1, "away": 1 },
+        { "matchId": 69, "home": 2, "away": 1 },
+        { "matchId": 70, "home": 0, "away": 1 },
+        { "matchId": 71, "home": 2, "away": 0 },
+        { "matchId": 72, "home": 1, "away": 1 }
+      ]
+    },
+    {
+      "name": "Alfredo Soto",
+      "guesses": [
+        { "matchId": 1,  "home": 1, "away": 1 },
+        { "matchId": 2,  "home": 1, "away": 0 },
+        { "matchId": 3,  "home": 1, "away": 0 },
+        { "matchId": 4,  "home": 1, "away": 1 },
+        { "matchId": 5,  "home": 0, "away": 1 },
+        { "matchId": 6,  "home": 2, "away": 0 },
+        { "matchId": 7,  "home": 0, "away": 3 },
+        { "matchId": 8,  "home": 0, "away": 1 },
+        { "matchId": 9,  "home": 5, "away": 0 },
+        { "matchId": 10, "home": 2, "away": 1 },
+        { "matchId": 11, "home": 1, "away": 2 },
+        { "matchId": 12, "home": 1, "away": 1 },
+        { "matchId": 13, "home": 4, "away": 0 },
+        { "matchId": 14, "home": 2, "away": 0 },
+        { "matchId": 15, "home": 0, "away": 1 },
+        { "matchId": 16, "home": 1, "away": 1 },
+        { "matchId": 17, "home": 2, "away": 0 },
+        { "matchId": 18, "home": 1, "away": 1 },
+        { "matchId": 19, "home": 2, "away": 0 },
+        { "matchId": 20, "home": 0, "away": 0 },
+        { "matchId": 21, "home": 3, "away": 0 },
+        { "matchId": 22, "home": 2, "away": 1 },
+        { "matchId": 23, "home": 2, "away": 0 },
+        { "matchId": 24, "home": 0, "away": 2 },
+        { "matchId": 25, "home": 1, "away": 1 },
+        { "matchId": 26, "home": 1, "away": 0 },
+        { "matchId": 27, "home": 1, "away": 1 },
+        { "matchId": 28, "home": 1, "away": 1 },
+        { "matchId": 29, "home": 2, "away": 0 },
+        { "matchId": 30, "home": 1, "away": 2 },
+        { "matchId": 31, "home": 0, "away": 3 },
+        { "matchId": 32, "home": 0, "away": 1 },
+        { "matchId": 33, "home": 2, "away": 0 },
+        { "matchId": 34, "home": 2, "away": 1 },
+        { "matchId": 35, "home": 2, "away": 0 },
+        { "matchId": 36, "home": 1, "away": 1 },
+        { "matchId": 37, "home": 2, "away": 0 },
+        { "matchId": 38, "home": 2, "away": 0 },
+        { "matchId": 39, "home": 3, "away": 0 },
+        { "matchId": 40, "home": 0, "away": 1 },
+        { "matchId": 41, "home": 2, "away": 0 },
+        { "matchId": 42, "home": 2, "away": 0 },
+        { "matchId": 43, "home": 1, "away": 1 },
+        { "matchId": 44, "home": 0, "away": 1 },
+        { "matchId": 45, "home": 2, "away": 0 },
+        { "matchId": 46, "home": 2, "away": 1 },
+        { "matchId": 47, "home": 0, "away": 2 },
+        { "matchId": 48, "home": 2, "away": 0 },
+        { "matchId": 49, "home": 1, "away": 0 },
+        { "matchId": 50, "home": 0, "away": 0 },
+        { "matchId": 51, "home": 1, "away": 0 },
+        { "matchId": 52, "home": 2, "away": 0 },
+        { "matchId": 53, "home": 1, "away": 0 },
+        { "matchId": 54, "home": 1, "away": 1 },
+        { "matchId": 55, "home": 1, "away": 2 },
+        { "matchId": 56, "home": 1, "away": 2 },
+        { "matchId": 57, "home": 1, "away": 1 },
+        { "matchId": 58, "home": 1, "away": 3 },
+        { "matchId": 59, "home": 1, "away": 1 },
+        { "matchId": 60, "home": 1, "away": 0 },
+        { "matchId": 61, "home": 0, "away": 1 },
+        { "matchId": 62, "home": 1, "away": 0 },
+        { "matchId": 63, "home": 0, "away": 1 },
+        { "matchId": 64, "home": 1, "away": 2 },
+        { "matchId": 65, "home": 2, "away": 1 },
+        { "matchId": 66, "home": 1, "away": 3 },
+        { "matchId": 67, "home": 2, "away": 0 },
+        { "matchId": 68, "home": 1, "away": 1 },
+        { "matchId": 69, "home": 2, "away": 2 },
+        { "matchId": 70, "home": 1, "away": 1 },
+        { "matchId": 71, "home": 3, "away": 0 },
+        { "matchId": 72, "home": 0, "away": 0 }
+      ]
+    },
+    {
+      "name": "Javier Aguirre",
+      "guesses": [
+        { "matchId": 1,  "home": 2, "away": 0 },
+        { "matchId": 2,  "home": 2, "away": 1 },
+        { "matchId": 3,  "home": 0, "away": 1 },
+        { "matchId": 4,  "home": 2, "away": 1 },
+        { "matchId": 5,  "home": 0, "away": 2 },
+        { "matchId": 6,  "home": 3, "away": 1 },
+        { "matchId": 7,  "home": 0, "away": 1 },
+        { "matchId": 8,  "home": 0, "away": 1 },
+        { "matchId": 9,  "home": 4, "away": 0 },
+        { "matchId": 10, "home": 2, "away": 1 },
+        { "matchId": 11, "home": 1, "away": 0 },
+        { "matchId": 12, "home": 1, "away": 0 },
+        { "matchId": 13, "home": 4, "away": 0 },
+        { "matchId": 14, "home": 2, "away": 1 },
+        { "matchId": 15, "home": 0, "away": 2 },
+        { "matchId": 16, "home": 0, "away": 0 },
+        { "matchId": 17, "home": 3, "away": 0 },
+        { "matchId": 18, "home": 0, "away": 2 },
+        { "matchId": 19, "home": 2, "away": 0 },
+        { "matchId": 20, "home": 1, "away": 0 },
+        { "matchId": 21, "home": 3, "away": 0 },
+        { "matchId": 22, "home": 2, "away": 2 },
+        { "matchId": 23, "home": 2, "away": 0 },
+        { "matchId": 24, "home": 0, "away": 2 },
+        { "matchId": 25, "home": 1, "away": 0 },
+        { "matchId": 26, "home": 2, "away": 1 },
+        { "matchId": 27, "home": 0, "away": 0 },
+        { "matchId": 28, "home": 0, "away": 0 },
+        { "matchId": 29, "home": 2, "away": 1 },
+        { "matchId": 30, "home": 1, "away": 0 },
+        { "matchId": 31, "home": 0, "away": 3 },
+        { "matchId": 32, "home": 1, "away": 1 },
+        { "matchId": 33, "home": 2, "away": 0 },
+        { "matchId": 34, "home": 3, "away": 1 },
+        { "matchId": 35, "home": 2, "away": 0 },
+        { "matchId": 36, "home": 0, "away": 2 },
+        { "matchId": 37, "home": 3, "away": 0 },
+        { "matchId": 38, "home": 2, "away": 0 },
+        { "matchId": 39, "home": 2, "away": 0 },
+        { "matchId": 40, "home": 1, "away": 2 },
+        { "matchId": 41, "home": 3, "away": 1 },
+        { "matchId": 42, "home": 3, "away": 0 },
+        { "matchId": 43, "home": 1, "away": 0 },
+        { "matchId": 44, "home": 0, "away": 0 },
+        { "matchId": 45, "home": 3, "away": 0 },
+        { "matchId": 46, "home": 3, "away": 1 },
+        { "matchId": 47, "home": 0, "away": 2 },
+        { "matchId": 48, "home": 2, "away": 0 },
+        { "matchId": 49, "home": 1, "away": 0 },
+        { "matchId": 50, "home": 2, "away": 1 },
+        { "matchId": 51, "home": 2, "away": 0 },
+        { "matchId": 52, "home": 2, "away": 0 },
+        { "matchId": 53, "home": 1, "away": 0 },
+        { "matchId": 54, "home": 1, "away": 2 },
+        { "matchId": 55, "home": 0, "away": 2 },
+        { "matchId": 56, "home": 0, "away": 2 },
+        { "matchId": 57, "home": 2, "away": 1 },
+        { "matchId": 58, "home": 0, "away": 2 },
+        { "matchId": 59, "home": 1, "away": 2 },
+        { "matchId": 60, "home": 2, "away": 1 },
+        { "matchId": 61, "home": 1, "away": 3 },
+        { "matchId": 62, "home": 1, "away": 0 },
+        { "matchId": 63, "home": 0, "away": 0 },
+        { "matchId": 64, "home": 0, "away": 1 },
+        { "matchId": 65, "home": 1, "away": 0 },
+        { "matchId": 66, "home": 0, "away": 2 },
+        { "matchId": 67, "home": 3, "away": 0 },
+        { "matchId": 68, "home": 1, "away": 0 },
+        { "matchId": 69, "home": 2, "away": 1 },
+        { "matchId": 70, "home": 0, "away": 0 },
+        { "matchId": 71, "home": 3, "away": 0 },
+        { "matchId": 72, "home": 1, "away": 2 }
+      ]
+    },
+    {
+      "name": "Sebastian Ruiz",
+      "guesses": [
+        { "matchId": 1,  "home": 2, "away": 0 },
+        { "matchId": 2,  "home": 2, "away": 2 },
+        { "matchId": 3,  "home": 2, "away": 1 },
+        { "matchId": 4,  "home": 1, "away": 0 },
+        { "matchId": 5,  "home": 0, "away": 3 },
+        { "matchId": 6,  "home": 3, "away": 2 },
+        { "matchId": 7,  "home": 0, "away": 1 },
+        { "matchId": 8,  "home": 1, "away": 2 },
+        { "matchId": 9,  "home": 5, "away": 0 },
+        { "matchId": 10, "home": 2, "away": 2 },
+        { "matchId": 11, "home": 0, "away": 1 },
+        { "matchId": 12, "home": 1, "away": 1 },
+        { "matchId": 13, "home": 4, "away": 0 },
+        { "matchId": 14, "home": 2, "away": 0 },
+        { "matchId": 15, "home": 0, "away": 3 },
+        { "matchId": 16, "home": 0, "away": 0 },
+        { "matchId": 17, "home": 3, "away": 1 },
+        { "matchId": 18, "home": 0, "away": 2 },
+        { "matchId": 19, "home": 2, "away": 0 },
+        { "matchId": 20, "home": 1, "away": 1 },
+        { "matchId": 21, "home": 5, "away": 0 },
+        { "matchId": 22, "home": 1, "away": 2 },
+        { "matchId": 23, "home": 2, "away": 0 },
+        { "matchId": 24, "home": 0, "away": 3 },
+        { "matchId": 25, "home": 1, "away": 1 },
+        { "matchId": 26, "home": 2, "away": 1 },
+        { "matchId": 27, "home": 1, "away": 0 },
+        { "matchId": 28, "home": 0, "away": 0 },
+        { "matchId": 29, "home": 2, "away": 2 },
+        { "matchId": 30, "home": 1, "away": 2 },
+        { "matchId": 31, "home": 0, "away": 3 },
+        { "matchId": 32, "home": 2, "away": 1 },
+        { "matchId": 33, "home": 3, "away": 0 },
+        { "matchId": 34, "home": 3, "away": 1 },
+        { "matchId": 35, "home": 2, "away": 0 },
+        { "matchId": 36, "home": 0, "away": 2 },
+        { "matchId": 37, "home": 3, "away": 0 },
+        { "matchId": 38, "home": 3, "away": 0 },
+        { "matchId": 39, "home": 3, "away": 0 },
+        { "matchId": 40, "home": 1, "away": 2 },
+        { "matchId": 41, "home": 3, "away": 1 },
+        { "matchId": 42, "home": 4, "away": 0 },
+        { "matchId": 43, "home": 2, "away": 0 },
+        { "matchId": 44, "home": 0, "away": 0 },
+        { "matchId": 45, "home": 5, "away": 0 },
+        { "matchId": 46, "home": 3, "away": 2 },
+        { "matchId": 47, "home": 1, "away": 3 },
+        { "matchId": 48, "home": 3, "away": 1 },
+        { "matchId": 49, "home": 2, "away": 2 },
+        { "matchId": 50, "home": 2, "away": 2 },
+        { "matchId": 51, "home": 3, "away": 1 },
+        { "matchId": 52, "home": 3, "away": 0 },
+        { "matchId": 53, "home": 1, "away": 1 },
+        { "matchId": 54, "home": 1, "away": 2 },
+        { "matchId": 55, "home": 0, "away": 2 },
+        { "matchId": 56, "home": 0, "away": 2 },
+        { "matchId": 57, "home": 2, "away": 0 },
+        { "matchId": 58, "home": 1, "away": 3 },
+        { "matchId": 59, "home": 0, "away": 1 },
+        { "matchId": 60, "home": 2, "away": 1 },
+        { "matchId": 61, "home": 1, "away": 2 },
+        { "matchId": 62, "home": 3, "away": 1 },
+        { "matchId": 63, "home": 0, "away": 1 },
+        { "matchId": 64, "home": 0, "away": 1 },
+        { "matchId": 65, "home": 1, "away": 1 },
+        { "matchId": 66, "home": 0, "away": 2 },
+        { "matchId": 67, "home": 2, "away": 0 },
+        { "matchId": 68, "home": 1, "away": 0 },
+        { "matchId": 69, "home": 2, "away": 0 },
+        { "matchId": 70, "home": 0, "away": 0 },
+        { "matchId": 71, "home": 3, "away": 0 },
+        { "matchId": 72, "home": 1, "away": 1 }
+      ]
+    },
+    {
+      "name": "Cristian Marchant",
+      "guesses": [
+        { "matchId": 1,  "home": 2, "away": 1 },
+        { "matchId": 2,  "home": 1, "away": 0 },
+        { "matchId": 3,  "home": 1, "away": 1 },
+        { "matchId": 4,  "home": 1, "away": 1 },
+        { "matchId": 5,  "home": 0, "away": 1 },
+        { "matchId": 6,  "home": 2, "away": 0 },
+        { "matchId": 7,  "home": 0, "away": 2 },
+        { "matchId": 8,  "home": 1, "away": 2 },
+        { "matchId": 9,  "home": 4, "away": 0 },
+        { "matchId": 10, "home": 2, "away": 1 },
+        { "matchId": 11, "home": 1, "away": 3 },
+        { "matchId": 12, "home": 1, "away": 0 },
+        { "matchId": 13, "home": 6, "away": 0 },
+        { "matchId": 14, "home": 2, "away": 2 },
+        { "matchId": 15, "home": 1, "away": 1 },
+        { "matchId": 16, "home": 1, "away": 1 },
+        { "matchId": 17, "home": 2, "away": 0 },
+        { "matchId": 18, "home": 0, "away": 2 },
+        { "matchId": 19, "home": 2, "away": 1 },
+        { "matchId": 20, "home": 1, "away": 0 },
+        { "matchId": 21, "home": 3, "away": 1 },
+        { "matchId": 22, "home": 2, "away": 2 },
+        { "matchId": 23, "home": 1, "away": 0 },
+        { "matchId": 24, "home": 1, "away": 2 },
+        { "matchId": 25, "home": 1, "away": 0 },
+        { "matchId": 26, "home": 0, "away": 1 },
+        { "matchId": 27, "home": 0, "away": 1 },
+        { "matchId": 28, "home": 1, "away": 1 },
+        { "matchId": 29, "home": 1, "away": 1 },
+        { "matchId": 30, "home": 1, "away": 2 },
+        { "matchId": 31, "home": 0, "away": 6 },
+        { "matchId": 32, "home": 1, "away": 0 },
+        { "matchId": 33, "home": 2, "away": 0 },
+        { "matchId": 34, "home": 3, "away": 1 },
+        { "matchId": 35, "home": 3, "away": 0 },
+        { "matchId": 36, "home": 0, "away": 2 },
+        { "matchId": 37, "home": 3, "away": 1 },
+        { "matchId": 38, "home": 2, "away": 1 },
+        { "matchId": 39, "home": 2, "away": 0 },
+        { "matchId": 40, "home": 0, "away": 2 },
+        { "matchId": 41, "home": 3, "away": 1 },
+        { "matchId": 42, "home": 4, "away": 1 },
+        { "matchId": 43, "home": 2, "away": 1 },
+        { "matchId": 44, "home": 1, "away": 2 },
+        { "matchId": 45, "home": 3, "away": 0 },
+        { "matchId": 46, "home": 3, "away": 1 },
+        { "matchId": 47, "home": 0, "away": 2 },
+        { "matchId": 48, "home": 2, "away": 0 },
+        { "matchId": 49, "home": 1, "away": 1 },
+        { "matchId": 50, "home": 1, "away": 1 },
+        { "matchId": 51, "home": 2, "away": 1 },
+        { "matchId": 52, "home": 3, "away": 0 },
+        { "matchId": 53, "home": 1, "away": 1 },
+        { "matchId": 54, "home": 0, "away": 1 },
+        { "matchId": 55, "home": 0, "away": 2 },
+        { "matchId": 56, "home": 1, "away": 1 },
+        { "matchId": 57, "home": 1, "away": 1 },
+        { "matchId": 58, "home": 0, "away": 2 },
+        { "matchId": 59, "home": 2, "away": 0 },
+        { "matchId": 60, "home": 1, "away": 1 },
+        { "matchId": 61, "home": 2, "away": 2 },
+        { "matchId": 62, "home": 2, "away": 1 },
+        { "matchId": 63, "home": 2, "away": 2 },
+        { "matchId": 64, "home": 0, "away": 1 },
+        { "matchId": 65, "home": 2, "away": 1 },
+        { "matchId": 66, "home": 0, "away": 3 },
+        { "matchId": 67, "home": 3, "away": 0 },
+        { "matchId": 68, "home": 3, "away": 2 },
+        { "matchId": 69, "home": 2, "away": 2 },
+        { "matchId": 70, "home": 2, "away": 1 },
+        { "matchId": 71, "home": 3, "away": 0 },
+        { "matchId": 72, "home": 2, "away": 2 }
+      ]
+    },
+    {
+      "name": "Joaquin Contardo",
+      "guesses": [
+        { "matchId": 1,  "home": 2, "away": 1 },
+        { "matchId": 2,  "home": 1, "away": 1 },
+        { "matchId": 3,  "home": 2, "away": 1 },
+        { "matchId": 4,  "home": 0, "away": 2 },
+        { "matchId": 5,  "home": 0, "away": 2 },
+        { "matchId": 6,  "home": 2, "away": 1 },
+        { "matchId": 7,  "home": 0, "away": 2 },
+        { "matchId": 8,  "home": 1, "away": 1 },
+        { "matchId": 9,  "home": 4, "away": 0 },
+        { "matchId": 10, "home": 2, "away": 1 },
+        { "matchId": 11, "home": 1, "away": 1 },
+        { "matchId": 12, "home": 2, "away": 0 },
+        { "matchId": 13, "home": 3, "away": 0 },
+        { "matchId": 14, "home": 2, "away": 1 },
+        { "matchId": 15, "home": 0, "away": 2 },
+        { "matchId": 16, "home": 1, "away": 0 },
+        { "matchId": 17, "home": 2, "away": 1 },
+        { "matchId": 18, "home": 0, "away": 2 },
+        { "matchId": 19, "home": 3, "away": 0 },
+        { "matchId": 20, "home": 2, "away": 0 },
+        { "matchId": 21, "home": 3, "away": 1 },
+        { "matchId": 22, "home": 2, "away": 1 },
+        { "matchId": 23, "home": 1, "away": 1 },
+        { "matchId": 24, "home": 0, "away": 2 },
+        { "matchId": 25, "home": 2, "away": 1 },
+        { "matchId": 26, "home": 2, "away": 0 },
+        { "matchId": 27, "home": 3, "away": 1 },
+        { "matchId": 28, "home": 2, "away": 1 },
+        { "matchId": 29, "home": 2, "away": 1 },
+        { "matchId": 30, "home": 1, "away": 2 },
+        { "matchId": 31, "home": 0, "away": 3 },
+        { "matchId": 32, "home": 1, "away": 1 },
+        { "matchId": 33, "home": 2, "away": 1 },
+        { "matchId": 34, "home": 2, "away": 1 },
+        { "matchId": 35, "home": 3, "away": 0 },
+        { "matchId": 36, "home": 1, "away": 2 },
+        { "matchId": 37, "home": 3, "away": 0 },
+        { "matchId": 38, "home": 2, "away": 0 },
+        { "matchId": 39, "home": 2, "away": 0 },
+        { "matchId": 40, "home": 0, "away": 2 },
+        { "matchId": 41, "home": 2, "away": 1 },
+        { "matchId": 42, "home": 4, "away": 0 },
+        { "matchId": 43, "home": 1, "away": 1 },
+        { "matchId": 44, "home": 1, "away": 2 },
+        { "matchId": 45, "home": 3, "away": 0 },
+        { "matchId": 46, "home": 2, "away": 0 },
+        { "matchId": 47, "home": 0, "away": 2 },
+        { "matchId": 48, "home": 2, "away": 0 },
+        { "matchId": 49, "home": 1, "away": 1 },
+        { "matchId": 50, "home": 2, "away": 1 },
+        { "matchId": 51, "home": 3, "away": 1 },
+        { "matchId": 52, "home": 3, "away": 0 },
+        { "matchId": 53, "home": 2, "away": 1 },
+        { "matchId": 54, "home": 2, "away": 1 },
+        { "matchId": 55, "home": 0, "away": 3 },
+        { "matchId": 56, "home": 1, "away": 2 },
+        { "matchId": 57, "home": 1, "away": 1 },
+        { "matchId": 58, "home": 0, "away": 2 },
+        { "matchId": 59, "home": 1, "away": 2 },
+        { "matchId": 60, "home": 1, "away": 1 },
+        { "matchId": 61, "home": 1, "away": 2 },
+        { "matchId": 62, "home": 2, "away": 0 },
+        { "matchId": 63, "home": 1, "away": 1 },
+        { "matchId": 64, "home": 1, "away": 1 },
+        { "matchId": 65, "home": 1, "away": 1 },
+        { "matchId": 66, "home": 0, "away": 3 },
+        { "matchId": 67, "home": 3, "away": 0 },
+        { "matchId": 68, "home": 2, "away": 1 },
+        { "matchId": 69, "home": 2, "away": 1 },
+        { "matchId": 70, "home": 1, "away": 1 },
+        { "matchId": 71, "home": 4, "away": 0 },
+        { "matchId": 72, "home": 1, "away": 2 }
+      ]
+    }
+  ]
+}
