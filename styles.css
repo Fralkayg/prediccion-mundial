@@ -22,6 +22,7 @@
 
 body {
   min-height: 100vh;
+  overflow-x: hidden;
   font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   color: var(--text);
   line-height: 1.6;
@@ -393,7 +394,7 @@ tbody tr:hover {
 .matches-panel {
   max-height: 760px;
   overflow-y: auto;
-  overflow-x: auto;
+  overflow-x: hidden;
   padding: 1rem;
   display: flex;
   flex-direction: column;
@@ -572,8 +573,17 @@ footer {
     overflow-x: auto;
   }
 
+  .matches-panel {
+    overflow-x: auto;
+  }
+
+  .match-card .card {
+    overflow-x: auto;
+  }
+
   #standings-container td,
-  .player-panel td {
+  .player-panel td,
+  .match-card td {
     white-space: nowrap;
   }
 }
