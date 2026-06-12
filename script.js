@@ -1,5 +1,5 @@
 const PREDICTIONS_FILE = 'data/predictions.json';
-const RESULTS_FILE = 'data/results.json';
+const SHEET_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0isdbB1H4H5k9QLSpwg6To0whFuaZTPqH9e8LhfFAwnA4DE0J5C3wxONwfB0Ueh3RGmtTKn7Symct/pub?gid=0&single=true&output=csv';
 
 async function fetchJson(path) {
   const response = await fetch(path);
@@ -7,6 +7,23 @@ async function fetchJson(path) {
     throw new Error(`No se pudo cargar ${path}: ${response.status} ${response.statusText}`);
   }
   return response.json();
+}
+
+async function fetchSheetResults() {
+  const response = await fetch(SHEET_URL);
+  if (!response.ok) {
+    throw new Error(`No se pudo cargar la hoja de resultados: ${response.status} ${response.statusText}`);
+  }
+  const text = await response.text();
+  const lines = text.trim().replace(/\r/g, '').split('\n');
+  const results = lines.slice(1)
+    .map(line => {
+      const [matchId, home, away] = line.split(',').map(s => s.trim());
+      if (!matchId || home === '' || away === '') return null;
+      return { matchId: Number(matchId), home: Number(home), away: Number(away) };
+    })
+    .filter(Boolean);
+  return { results };
 }
 
 function getMatchOutcome(score) {
@@ -272,7 +289,7 @@ async function init() {
   try {
     const [predictionsData, resultsData] = await Promise.all([
       fetchJson(PREDICTIONS_FILE),
-      fetchJson(RESULTS_FILE),
+      fetchSheetResults(),
     ]);
 
     const matches = predictionsData.matches || [];
